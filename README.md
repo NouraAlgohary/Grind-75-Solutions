@@ -4,3 +4,5 @@ In this repo, I am solving leetcode questions according to this [plan](https://w
 ### Two programming languages:
 - C++
 - Python
+
+In the journey of learning how to solve problems, I simplify algorithms which come across me in this repo [Alogirthms](https://github.com/NouraAlgohary/Algorithms)
